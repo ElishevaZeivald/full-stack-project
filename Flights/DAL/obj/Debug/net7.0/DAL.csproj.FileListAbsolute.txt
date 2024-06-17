@@ -1,0 +1,92 @@
+D:\p\Flights\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\p\Flights\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+D:\p\Flights\DAL\bin\Debug\net7.0\DAL.dll
+D:\p\Flights\DAL\bin\Debug\net7.0\DAL.pdb
+D:\p\Flights\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\p\Flights\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\p\Flights\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\p\Flights\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\p\Flights\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\p\Flights\DAL\obj\Debug\net7.0\DAL.dll
+D:\p\Flights\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\p\Flights\DAL\obj\Debug\net7.0\DAL.pdb
+D:\p\Flights\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+D:\p\Flights\DAL\obj\Debug\net7.0\ref\DAL.dll
+H:\פרויקט C#\Flights\DAL\bin\Debug\net7.0\DAL.deps.json
+H:\פרויקט C#\Flights\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+H:\פרויקט C#\Flights\DAL\bin\Debug\net7.0\DAL.dll
+H:\פרויקט C#\Flights\DAL\bin\Debug\net7.0\DAL.pdb
+H:\פרויקט C#\Flights\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+H:\פרויקט C#\Flights\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרויקט C#\Flights\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+H:\פרויקט C#\Flights\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+H:\פרויקט C#\Flights\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+H:\פרויקט C#\Flights\DAL\obj\Debug\net7.0\DAL.dll
+H:\פרויקט C#\Flights\DAL\obj\Debug\net7.0\refint\DAL.dll
+H:\פרויקט C#\Flights\DAL\obj\Debug\net7.0\DAL.pdb
+H:\פרויקט C#\Flights\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+H:\פרויקט C#\Flights\DAL\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\97258\Downloads\jm_vtbdhhiiBUiCnJL\פרויקט C#\Flights\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\97258\Downloads\jm_vtbdhhiiBUiCnJL\פרויקט C#\Flights\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97258\Downloads\jm_vtbdhhiiBUiCnJL\פרויקט C#\Flights\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\97258\Downloads\jm_vtbdhhiiBUiCnJL\פרויקט C#\Flights\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\97258\Downloads\jm_vtbdhhiiBUiCnJL\פרויקט C#\Flights\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\97258\Downloads\jm_vtbdhhiiBUiCnJL\פרויקט C#\Flights\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\97258\Downloads\jm_vtbdhhiiBUiCnJL\פרויקט C#\Flights\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\97258\Downloads\jm_vtbdhhiiBUiCnJL\פרויקט C#\Flights\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\DAL\obj\Debug\net7.0\ref\DAL.dll
+H:\P0\Flights\DAL\obj\Debug\net7.0\DAL.dll
+H:\P0\Flights\DAL\obj\Debug\net7.0\refint\DAL.dll
+H:\P0\Flights\DAL\obj\Debug\net7.0\DAL.pdb
+H:\P0\Flights\DAL\bin\Debug\net7.0\DAL.deps.json
+H:\P0\Flights\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+H:\P0\Flights\DAL\bin\Debug\net7.0\DAL.dll
+H:\P0\Flights\DAL\bin\Debug\net7.0\DAL.pdb
+H:\P0\Flights\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+H:\P0\Flights\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\P0\Flights\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+H:\P0\Flights\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+H:\P0\Flights\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+H:\P0\Flights\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+H:\P0\Flights\DAL\obj\Debug\net7.0\ref\DAL.dll
+E:\P0\Flights\DAL\bin\Debug\net7.0\DAL.deps.json
+E:\P0\Flights\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+E:\P0\Flights\DAL\bin\Debug\net7.0\DAL.dll
+E:\P0\Flights\DAL\bin\Debug\net7.0\DAL.pdb
+E:\P0\Flights\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+E:\P0\Flights\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\P0\Flights\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+E:\P0\Flights\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+E:\P0\Flights\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+E:\P0\Flights\DAL\obj\Debug\net7.0\DAL.dll
+E:\P0\Flights\DAL\obj\Debug\net7.0\refint\DAL.dll
+E:\P0\Flights\DAL\obj\Debug\net7.0\DAL.pdb
+E:\P0\Flights\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+E:\P0\Flights\DAL\obj\Debug\net7.0\ref\DAL.dll
+E:\שנה ב\C#\פרויקט מעודכן\Flights\DAL\bin\Debug\net7.0\DAL.deps.json
+E:\שנה ב\C#\פרויקט מעודכן\Flights\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+E:\שנה ב\C#\פרויקט מעודכן\Flights\DAL\bin\Debug\net7.0\DAL.dll
+E:\שנה ב\C#\פרויקט מעודכן\Flights\DAL\bin\Debug\net7.0\DAL.pdb
+E:\שנה ב\C#\פרויקט מעודכן\Flights\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+E:\שנה ב\C#\פרויקט מעודכן\Flights\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\שנה ב\C#\פרויקט מעודכן\Flights\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+E:\שנה ב\C#\פרויקט מעודכן\Flights\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+E:\שנה ב\C#\פרויקט מעודכן\Flights\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+E:\שנה ב\C#\פרויקט מעודכן\Flights\DAL\obj\Debug\net7.0\DAL.dll
+E:\שנה ב\C#\פרויקט מעודכן\Flights\DAL\obj\Debug\net7.0\refint\DAL.dll
+E:\שנה ב\C#\פרויקט מעודכן\Flights\DAL\obj\Debug\net7.0\DAL.pdb
+E:\שנה ב\C#\פרויקט מעודכן\Flights\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+E:\שנה ב\C#\פרויקט מעודכן\Flights\DAL\obj\Debug\net7.0\ref\DAL.dll

@@ -1,0 +1,110 @@
+D:\p\Flights\BL\bin\Debug\net7.0\BL.deps.json
+D:\p\Flights\BL\bin\Debug\net7.0\BL.runtimeconfig.json
+D:\p\Flights\BL\bin\Debug\net7.0\BL.dll
+D:\p\Flights\BL\bin\Debug\net7.0\BL.pdb
+D:\p\Flights\BL\bin\Debug\net7.0\DAL.dll
+D:\p\Flights\BL\bin\Debug\net7.0\DAL.pdb
+D:\p\Flights\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+D:\p\Flights\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\p\Flights\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+D:\p\Flights\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+D:\p\Flights\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+D:\p\Flights\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+D:\p\Flights\BL\obj\Debug\net7.0\BL.dll
+D:\p\Flights\BL\obj\Debug\net7.0\refint\BL.dll
+D:\p\Flights\BL\obj\Debug\net7.0\BL.pdb
+D:\p\Flights\BL\obj\Debug\net7.0\BL.genruntimeconfig.cache
+D:\p\Flights\BL\obj\Debug\net7.0\ref\BL.dll
+H:\פרויקט C#\Flights\BL\bin\Debug\net7.0\BL.deps.json
+H:\פרויקט C#\Flights\BL\bin\Debug\net7.0\BL.runtimeconfig.json
+H:\פרויקט C#\Flights\BL\bin\Debug\net7.0\BL.dll
+H:\פרויקט C#\Flights\BL\bin\Debug\net7.0\BL.pdb
+H:\פרויקט C#\Flights\BL\bin\Debug\net7.0\DAL.dll
+H:\פרויקט C#\Flights\BL\bin\Debug\net7.0\DAL.pdb
+H:\פרויקט C#\Flights\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+H:\פרויקט C#\Flights\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרויקט C#\Flights\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+H:\פרויקט C#\Flights\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+H:\פרויקט C#\Flights\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+H:\פרויקט C#\Flights\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+H:\פרויקט C#\Flights\BL\obj\Debug\net7.0\BL.dll
+H:\פרויקט C#\Flights\BL\obj\Debug\net7.0\refint\BL.dll
+H:\פרויקט C#\Flights\BL\obj\Debug\net7.0\BL.pdb
+H:\פרויקט C#\Flights\BL\obj\Debug\net7.0\BL.genruntimeconfig.cache
+H:\פרויקט C#\Flights\BL\obj\Debug\net7.0\ref\BL.dll
+C:\Users\97258\Downloads\jm_vtbdhhiiBUiCnJL\פרויקט C#\Flights\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+C:\Users\97258\Downloads\jm_vtbdhhiiBUiCnJL\פרויקט C#\Flights\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97258\Downloads\jm_vtbdhhiiBUiCnJL\פרויקט C#\Flights\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+C:\Users\97258\Downloads\jm_vtbdhhiiBUiCnJL\פרויקט C#\Flights\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+C:\Users\97258\Downloads\jm_vtbdhhiiBUiCnJL\פרויקט C#\Flights\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\97258\Downloads\jm_vtbdhhiiBUiCnJL\פרויקט C#\Flights\BL\obj\Debug\net7.0\BL.dll
+C:\Users\97258\Downloads\jm_vtbdhhiiBUiCnJL\פרויקט C#\Flights\BL\obj\Debug\net7.0\refint\BL.dll
+C:\Users\97258\Downloads\jm_vtbdhhiiBUiCnJL\פרויקט C#\Flights\BL\obj\Debug\net7.0\BL.pdb
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\BL\obj\Debug\net7.0\BL.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\BL\obj\Debug\net7.0\refint\BL.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\BL\obj\Debug\net7.0\BL.pdb
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\BL\bin\Debug\net7.0\BL.deps.json
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\BL\bin\Debug\net7.0\BL.runtimeconfig.json
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\BL\bin\Debug\net7.0\BL.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\BL\bin\Debug\net7.0\BL.pdb
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\BL\obj\Debug\net7.0\BL.genruntimeconfig.cache
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\BL\obj\Debug\net7.0\ref\BL.dll
+H:\P0\Flights\BL\obj\Debug\net7.0\BL.dll
+H:\P0\Flights\BL\obj\Debug\net7.0\refint\BL.dll
+H:\P0\Flights\BL\obj\Debug\net7.0\BL.pdb
+H:\P0\Flights\BL\bin\Debug\net7.0\BL.deps.json
+H:\P0\Flights\BL\bin\Debug\net7.0\BL.runtimeconfig.json
+H:\P0\Flights\BL\bin\Debug\net7.0\BL.dll
+H:\P0\Flights\BL\bin\Debug\net7.0\BL.pdb
+H:\P0\Flights\BL\bin\Debug\net7.0\DAL.dll
+H:\P0\Flights\BL\bin\Debug\net7.0\DAL.pdb
+H:\P0\Flights\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+H:\P0\Flights\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+H:\P0\Flights\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+H:\P0\Flights\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+H:\P0\Flights\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+H:\P0\Flights\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+H:\P0\Flights\BL\obj\Debug\net7.0\BL.genruntimeconfig.cache
+H:\P0\Flights\BL\obj\Debug\net7.0\ref\BL.dll
+E:\P0\Flights\BL\bin\Debug\net7.0\BL.deps.json
+E:\P0\Flights\BL\bin\Debug\net7.0\BL.runtimeconfig.json
+E:\P0\Flights\BL\bin\Debug\net7.0\BL.dll
+E:\P0\Flights\BL\bin\Debug\net7.0\BL.pdb
+E:\P0\Flights\BL\bin\Debug\net7.0\DAL.dll
+E:\P0\Flights\BL\bin\Debug\net7.0\DAL.pdb
+E:\P0\Flights\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+E:\P0\Flights\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\P0\Flights\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+E:\P0\Flights\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+E:\P0\Flights\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+E:\P0\Flights\BL\obj\Debug\net7.0\BL.csproj.Up2Date
+E:\P0\Flights\BL\obj\Debug\net7.0\BL.dll
+E:\P0\Flights\BL\obj\Debug\net7.0\refint\BL.dll
+E:\P0\Flights\BL\obj\Debug\net7.0\BL.pdb
+E:\P0\Flights\BL\obj\Debug\net7.0\BL.genruntimeconfig.cache
+E:\P0\Flights\BL\obj\Debug\net7.0\ref\BL.dll
+E:\שנה ב\C#\פרויקט מעודכן\Flights\BL\bin\Debug\net7.0\BL.deps.json
+E:\שנה ב\C#\פרויקט מעודכן\Flights\BL\bin\Debug\net7.0\BL.runtimeconfig.json
+E:\שנה ב\C#\פרויקט מעודכן\Flights\BL\bin\Debug\net7.0\BL.dll
+E:\שנה ב\C#\פרויקט מעודכן\Flights\BL\bin\Debug\net7.0\BL.pdb
+E:\שנה ב\C#\פרויקט מעודכן\Flights\BL\bin\Debug\net7.0\DAL.dll
+E:\שנה ב\C#\פרויקט מעודכן\Flights\BL\bin\Debug\net7.0\DAL.pdb
+E:\שנה ב\C#\פרויקט מעודכן\Flights\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+E:\שנה ב\C#\פרויקט מעודכן\Flights\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\שנה ב\C#\פרויקט מעודכן\Flights\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+E:\שנה ב\C#\פרויקט מעודכן\Flights\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+E:\שנה ב\C#\פרויקט מעודכן\Flights\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+E:\שנה ב\C#\פרויקט מעודכן\Flights\BL\obj\Debug\net7.0\BL.csproj.Up2Date
+E:\שנה ב\C#\פרויקט מעודכן\Flights\BL\obj\Debug\net7.0\BL.dll
+E:\שנה ב\C#\פרויקט מעודכן\Flights\BL\obj\Debug\net7.0\refint\BL.dll
+E:\שנה ב\C#\פרויקט מעודכן\Flights\BL\obj\Debug\net7.0\BL.pdb
+E:\שנה ב\C#\פרויקט מעודכן\Flights\BL\obj\Debug\net7.0\BL.genruntimeconfig.cache
+E:\שנה ב\C#\פרויקט מעודכן\Flights\BL\obj\Debug\net7.0\ref\BL.dll

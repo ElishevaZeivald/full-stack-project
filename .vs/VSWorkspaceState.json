@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Flights",
+    "\\Flights\\BL",
+    "\\Flights\\BL\\bin",
+    "\\Flights\\BL\\bin\\Debug",
+    "\\Flights\\BL\\bin\\Debug\\net7.0",
+    "\\Flights\\BL\\BLModel",
+    "\\Flights\\BL\\BLModels"
+  ],
+  "SelectedNode": "\\Flights\\BL\\BLModel",
+  "PreviewInSolutionExplorer": false
+}

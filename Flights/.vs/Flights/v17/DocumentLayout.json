@@ -1,0 +1,413 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B923369-7E03-4DA3-A733-DEC4689E7A97}|BL\\BL.csproj|E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\bl\\blservices\\blflightcrewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B923369-7E03-4DA3-A733-DEC4689E7A97}|BL\\BL.csproj|solutionrelative:bl\\blservices\\blflightcrewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A82A3EF-2745-49F1-8B0B-2C3CB66F0678}|DAL\\DAL.csproj|E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\dal\\dalservices\\workersservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A82A3EF-2745-49F1-8B0B-2C3CB66F0678}|DAL\\DAL.csproj|solutionrelative:dal\\dalservices\\workersservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A82A3EF-2745-49F1-8B0B-2C3CB66F0678}|DAL\\DAL.csproj|E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\dal\\dalservices\\travelingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A82A3EF-2745-49F1-8B0B-2C3CB66F0678}|DAL\\DAL.csproj|solutionrelative:dal\\dalservices\\travelingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A82A3EF-2745-49F1-8B0B-2C3CB66F0678}|DAL\\DAL.csproj|E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\dal\\dalservices\\ordersservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A82A3EF-2745-49F1-8B0B-2C3CB66F0678}|DAL\\DAL.csproj|solutionrelative:dal\\dalservices\\ordersservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A82A3EF-2745-49F1-8B0B-2C3CB66F0678}|DAL\\DAL.csproj|E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\dal\\dalmodels\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A82A3EF-2745-49F1-8B0B-2C3CB66F0678}|DAL\\DAL.csproj|solutionrelative:dal\\dalmodels\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A82A3EF-2745-49F1-8B0B-2C3CB66F0678}|DAL\\DAL.csproj|E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\dal\\dalapi\\iflightscrew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A82A3EF-2745-49F1-8B0B-2C3CB66F0678}|DAL\\DAL.csproj|solutionrelative:dal\\dalapi\\iflightscrew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A82A3EF-2745-49F1-8B0B-2C3CB66F0678}|DAL\\DAL.csproj|E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\dal\\dalservices\\roleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A82A3EF-2745-49F1-8B0B-2C3CB66F0678}|DAL\\DAL.csproj|solutionrelative:dal\\dalservices\\roleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B923369-7E03-4DA3-A733-DEC4689E7A97}|BL\\BL.csproj|e:\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\flights\\bl\\blprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B923369-7E03-4DA3-A733-DEC4689E7A97}|BL\\BL.csproj|solutionrelative:bl\\blprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B923369-7E03-4DA3-A733-DEC4689E7A97}|BL\\BL.csproj|E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\bl\\blservices\\bltravelingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B923369-7E03-4DA3-A733-DEC4689E7A97}|BL\\BL.csproj|solutionrelative:bl\\blservices\\bltravelingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A82A3EF-2745-49F1-8B0B-2C3CB66F0678}|DAL\\DAL.csproj|E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\dal\\dalmodels\\flightcrew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A82A3EF-2745-49F1-8B0B-2C3CB66F0678}|DAL\\DAL.csproj|solutionrelative:dal\\dalmodels\\flightcrew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B923369-7E03-4DA3-A733-DEC4689E7A97}|BL\\BL.csproj|E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\bl\\blservices\\blrolesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B923369-7E03-4DA3-A733-DEC4689E7A97}|BL\\BL.csproj|solutionrelative:bl\\blservices\\blrolesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A82A3EF-2745-49F1-8B0B-2C3CB66F0678}|DAL\\DAL.csproj|E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\dal\\dalapi\\irole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A82A3EF-2745-49F1-8B0B-2C3CB66F0678}|DAL\\DAL.csproj|solutionrelative:dal\\dalapi\\irole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B923369-7E03-4DA3-A733-DEC4689E7A97}|BL\\BL.csproj|E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\bl\\blservices\\blworkersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B923369-7E03-4DA3-A733-DEC4689E7A97}|BL\\BL.csproj|solutionrelative:bl\\blservices\\blworkersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A82A3EF-2745-49F1-8B0B-2C3CB66F0678}|DAL\\DAL.csproj|E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\dal\\dalservices\\flightscrewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A82A3EF-2745-49F1-8B0B-2C3CB66F0678}|DAL\\DAL.csproj|solutionrelative:dal\\dalservices\\flightscrewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A82A3EF-2745-49F1-8B0B-2C3CB66F0678}|DAL\\DAL.csproj|E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\dal\\dalservices\\airlinesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A82A3EF-2745-49F1-8B0B-2C3CB66F0678}|DAL\\DAL.csproj|solutionrelative:dal\\dalservices\\airlinesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B923369-7E03-4DA3-A733-DEC4689E7A97}|BL\\BL.csproj|E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\bl\\blmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B923369-7E03-4DA3-A733-DEC4689E7A97}|BL\\BL.csproj|solutionrelative:bl\\blmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B923369-7E03-4DA3-A733-DEC4689E7A97}|BL\\BL.csproj|E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\bl\\blservices\\blordersservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B923369-7E03-4DA3-A733-DEC4689E7A97}|BL\\BL.csproj|solutionrelative:bl\\blservices\\blordersservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A82A3EF-2745-49F1-8B0B-2C3CB66F0678}|DAL\\DAL.csproj|E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\dal\\dalapi\\iorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A82A3EF-2745-49F1-8B0B-2C3CB66F0678}|DAL\\DAL.csproj|solutionrelative:dal\\dalapi\\iorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A82A3EF-2745-49F1-8B0B-2C3CB66F0678}|DAL\\DAL.csproj|E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\dal\\dalapi\\itraveling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A82A3EF-2745-49F1-8B0B-2C3CB66F0678}|DAL\\DAL.csproj|solutionrelative:dal\\dalapi\\itraveling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A82A3EF-2745-49F1-8B0B-2C3CB66F0678}|DAL\\DAL.csproj|E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\dal\\dalapi\\iairlines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A82A3EF-2745-49F1-8B0B-2C3CB66F0678}|DAL\\DAL.csproj|solutionrelative:dal\\dalapi\\iairlines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B923369-7E03-4DA3-A733-DEC4689E7A97}|BL\\BL.csproj|E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\bl\\blservices\\blflightsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B923369-7E03-4DA3-A733-DEC4689E7A97}|BL\\BL.csproj|solutionrelative:bl\\blservices\\blflightsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B923369-7E03-4DA3-A733-DEC4689E7A97}|BL\\BL.csproj|E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\bl\\blservices\\blairlinesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B923369-7E03-4DA3-A733-DEC4689E7A97}|BL\\BL.csproj|solutionrelative:bl\\blservices\\blairlinesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B923369-7E03-4DA3-A733-DEC4689E7A97}|BL\\BL.csproj|E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\bl\\blapi\\iblflightcrew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B923369-7E03-4DA3-A733-DEC4689E7A97}|BL\\BL.csproj|solutionrelative:bl\\blapi\\iblflightcrew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B923369-7E03-4DA3-A733-DEC4689E7A97}|BL\\BL.csproj|E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\bl\\blapi\\iblairlines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B923369-7E03-4DA3-A733-DEC4689E7A97}|BL\\BL.csproj|solutionrelative:bl\\blapi\\iblairlines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BLFlightCrewService.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\BL\\BLServices\\BLFlightCrewService.cs",
+              "RelativeDocumentMoniker": "BL\\BLServices\\BLFlightCrewService.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\BL\\BLServices\\BLFlightCrewService.cs",
+              "RelativeToolTip": "BL\\BLServices\\BLFlightCrewService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:09:00.968Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkersServices.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\DAL\\DalServices\\WorkersServices.cs",
+              "RelativeDocumentMoniker": "DAL\\DalServices\\WorkersServices.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\DAL\\DalServices\\WorkersServices.cs",
+              "RelativeToolTip": "DAL\\DalServices\\WorkersServices.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:15:56.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TravelingService.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\DAL\\DalServices\\TravelingService.cs",
+              "RelativeDocumentMoniker": "DAL\\DalServices\\TravelingService.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\DAL\\DalServices\\TravelingService.cs",
+              "RelativeToolTip": "DAL\\DalServices\\TravelingService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:15:53.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersServices.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\DAL\\DalServices\\OrdersServices.cs",
+              "RelativeDocumentMoniker": "DAL\\DalServices\\OrdersServices.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\DAL\\DalServices\\OrdersServices.cs",
+              "RelativeToolTip": "DAL\\DalServices\\OrdersServices.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:04:37.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Role.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\DAL\\DalModels\\Role.cs",
+              "RelativeDocumentMoniker": "DAL\\DalModels\\Role.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\DAL\\DalModels\\Role.cs",
+              "RelativeToolTip": "DAL\\DalModels\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:28:37.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFlightsCrew.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\DAL\\DalApi\\IFlightsCrew.cs",
+              "RelativeDocumentMoniker": "DAL\\DalApi\\IFlightsCrew.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\DAL\\DalApi\\IFlightsCrew.cs",
+              "RelativeToolTip": "DAL\\DalApi\\IFlightsCrew.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:35:51.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoleServices.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\DAL\\DalServices\\RoleServices.cs",
+              "RelativeDocumentMoniker": "DAL\\DalServices\\RoleServices.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\DAL\\DalServices\\RoleServices.cs",
+              "RelativeToolTip": "DAL\\DalServices\\RoleServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:30:40.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BLProfile.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\BL\\BLProfile.cs",
+              "RelativeDocumentMoniker": "BL\\BLProfile.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\BL\\BLProfile.cs",
+              "RelativeToolTip": "BL\\BLProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:25:29.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BLTravelingService.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\BL\\BLServices\\BLTravelingService.cs",
+              "RelativeDocumentMoniker": "BL\\BLServices\\BLTravelingService.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\BL\\BLServices\\BLTravelingService.cs",
+              "RelativeToolTip": "BL\\BLServices\\BLTravelingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:15:58.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BLWorkersService.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\BL\\BLServices\\BLWorkersService.cs",
+              "RelativeDocumentMoniker": "BL\\BLServices\\BLWorkersService.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\BL\\BLServices\\BLWorkersService.cs",
+              "RelativeToolTip": "BL\\BLServices\\BLWorkersService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:16:00.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FlightCrew.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\DAL\\DalModels\\FlightCrew.cs",
+              "RelativeDocumentMoniker": "DAL\\DalModels\\FlightCrew.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\DAL\\DalModels\\FlightCrew.cs",
+              "RelativeToolTip": "DAL\\DalModels\\FlightCrew.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:23:17.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRole.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\DAL\\DalApi\\IRole.cs",
+              "RelativeDocumentMoniker": "DAL\\DalApi\\IRole.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\DAL\\DalApi\\IRole.cs",
+              "RelativeToolTip": "DAL\\DalApi\\IRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:29:57.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BLRolesService.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\BL\\BLServices\\BLRolesService.cs",
+              "RelativeDocumentMoniker": "BL\\BLServices\\BLRolesService.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\BL\\BLServices\\BLRolesService.cs",
+              "RelativeToolTip": "BL\\BLServices\\BLRolesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:28:02.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BLManager.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\BL\\BLManager.cs",
+              "RelativeDocumentMoniker": "BL\\BLManager.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\BL\\BLManager.cs",
+              "RelativeToolTip": "BL\\BLManager.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:25:25.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AirlinesServices.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\DAL\\DalServices\\AirlinesServices.cs",
+              "RelativeDocumentMoniker": "DAL\\DalServices\\AirlinesServices.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\DAL\\DalServices\\AirlinesServices.cs",
+              "RelativeToolTip": "DAL\\DalServices\\AirlinesServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:03:49.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FlightsCrewService.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\DAL\\DalServices\\FlightsCrewService.cs",
+              "RelativeDocumentMoniker": "DAL\\DalServices\\FlightsCrewService.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\DAL\\DalServices\\FlightsCrewService.cs",
+              "RelativeToolTip": "DAL\\DalServices\\FlightsCrewService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:09:30.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BLOrdersServices.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\BL\\BLServices\\BLOrdersServices.cs",
+              "RelativeDocumentMoniker": "BL\\BLServices\\BLOrdersServices.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\BL\\BLServices\\BLOrdersServices.cs",
+              "RelativeToolTip": "BL\\BLServices\\BLOrdersServices.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:20:11.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IOrders.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\DAL\\DalApi\\IOrders.cs",
+              "RelativeDocumentMoniker": "DAL\\DalApi\\IOrders.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\DAL\\DalApi\\IOrders.cs",
+              "RelativeToolTip": "DAL\\DalApi\\IOrders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:31:14.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ITraveling.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\DAL\\DalApi\\ITraveling.cs",
+              "RelativeDocumentMoniker": "DAL\\DalApi\\ITraveling.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\DAL\\DalApi\\ITraveling.cs",
+              "RelativeToolTip": "DAL\\DalApi\\ITraveling.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:30:57.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAirlines.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\DAL\\DalApi\\IAirlines.cs",
+              "RelativeDocumentMoniker": "DAL\\DalApi\\IAirlines.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\DAL\\DalApi\\IAirlines.cs",
+              "RelativeToolTip": "DAL\\DalApi\\IAirlines.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:30:50.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BLFlightsService.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\BL\\BLServices\\BLFlightsService.cs",
+              "RelativeDocumentMoniker": "BL\\BLServices\\BLFlightsService.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\BL\\BLServices\\BLFlightsService.cs",
+              "RelativeToolTip": "BL\\BLServices\\BLFlightsService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:20:06.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IBLFlightCrew.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\BL\\BLApi\\IBLFlightCrew.cs",
+              "RelativeDocumentMoniker": "BL\\BLApi\\IBLFlightCrew.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\BL\\BLApi\\IBLFlightCrew.cs",
+              "RelativeToolTip": "BL\\BLApi\\IBLFlightCrew.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:09:20.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IBLAirlines.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\BL\\BLApi\\IBLAirlines.cs",
+              "RelativeDocumentMoniker": "BL\\BLApi\\IBLAirlines.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\BL\\BLApi\\IBLAirlines.cs",
+              "RelativeToolTip": "BL\\BLApi\\IBLAirlines.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:09:18.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BLAirlinesServices.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\BL\\BLServices\\BLAirlinesServices.cs",
+              "RelativeDocumentMoniker": "BL\\BLServices\\BLAirlinesServices.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE\u05E2\u05D5\u05D3\u05DB\u05DF\\Flights\\BL\\BLServices\\BLAirlinesServices.cs",
+              "RelativeToolTip": "BL\\BLServices\\BLAirlinesServices.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T20:25:30.659Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

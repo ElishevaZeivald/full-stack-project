@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# CS8603: Possible null reference return.
+dotnet_diagnostic.CS8603.severity = none
+
+# IDE0005: Using directive is unnecessary.
+dotnet_diagnostic.IDE0005.severity = none
